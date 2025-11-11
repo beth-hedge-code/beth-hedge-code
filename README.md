@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=beth-hedge-code&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<p align="center">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beth-hedge-code&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="250em" src="https://streak-stats.demolab.com?user=beth-hedge-code&theme=tokyonight&exclude_days=Sun%2CSat" />
+</p>
