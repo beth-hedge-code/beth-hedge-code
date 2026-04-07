@@ -22,11 +22,18 @@
 
 ---
 
-<p align="center">
-  <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=beth-hedge-code&layout=compact&theme=tokyonight&hide=css,hack" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=beth-hedge-code&theme=tokyonight" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=beth-hedge-code&layout=compact&theme=tokyonight&hide=css,hack" />
+      </td>
+      <td>
+        <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=beth-hedge-code&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
