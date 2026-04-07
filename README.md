@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML/CSS/JS-orange?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" alt="PHP Badge">
   <img src="https://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=powerbi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
@@ -21,6 +22,7 @@
 ---
 
 <p align="center">
+  <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=beth-hedge-code&layout=compact&theme=tokyonight&hide=css,hack" />
   &nbsp;&nbsp;&nbsp;
   <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=beth-hedge-code&theme=tokyonight" />
 </p>
