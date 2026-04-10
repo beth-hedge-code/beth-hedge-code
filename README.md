@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
   <img src="https://img.shields.io/badge/Star%20Trek-FFE200?logo=startrek&logoColor=000&style=flat" alt="Star Trek Badge">
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat" alt="R Badge">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat" alt="Jupyter Badge">
 </p>
 
 ---
