@@ -1,27 +1,39 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Beth!</h1>
-<h3 align="center">SQL • Databases • Excel • Web Development</h3>
+<h4 align="center">Aspiring Data Analyst focused on SQL, dashboards, and clean data workflows</h4>
+<h3 align="center">SQL • Data Analysis • Databases • Excel</h3>
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat" alt="NumPy Badge">
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat" alt="pandas Badge">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL Badge">
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat" alt="SQLite Badge">
-  <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML/CSS/JS-orange?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" alt="PHP Badge">
-  <img src="https://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/Star%20Trek-FFE200?logo=startrek&logoColor=000&style=flat" alt="Star Trek Badge">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat" alt="R Badge">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat" alt="Jupyter Badge">
-</p>
+<div align="center">
+
+  <h5>Confident in :</h5>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap Badge">
+    <img src="https://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=powerbi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  </div>
+  
+  <h5>Growing Skills In: </h5>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat" alt="CSS Badge">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat">
+    <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat" alt="Arduino Badge">
+  </div>
+</div>
 
 ---
 
@@ -48,20 +60,30 @@
 - 🎯 My goal: build projects that are clean, useful, and easy to maintain  
 
 ---
+## 📂 Featured Projects  
 
-## 🛠️ Tech Stack  
+<!--
+- **Sales Dashboard (Power BI)**  
+  Built an interactive dashboard analyzing sales trends, KPIs, and regional performance  
+   Option A (best)
+GitHub repo links for each project
+🔥 Option B
+screenshots of Power BI dashboard
+🔥 Option C
+one “real dataset story” (business insight)
+-->
 
-**Databases:**  
-`MySQL` `Microsoft SQL Server` `SQLite`  
+- **SQL Data Cleaning  & Schema Migration (DUO Senior Capstone)**  
+  Migrated existing data into a redesigned relational database schema.  
+  Cleaned inconsistent and duplicated records and improved data integrity using SQL joins, and normalization techniques.  
+  https://github.com/jmatthewhodges/DUO-Plus.git
 
-**Web Development:**  
-`HTML` `CSS` `JavaScript` `NodeJS` `PHP`
-
-**Data & Productivity:**  
-`Excel` `Google Sheets` `PowerBI`   
-
-**Other Tools:**  
-`Python` `Git` `GitHub`  
+- **Python Customer-Information-Management-System (Tkinter)**  
+  Built a desktop application for storing and managing customer records using a GUI interface (Tkinter).  
+  Implemented full CRUD functionality with persistent storage using SQLite. 
+  https://github.com/beth-hedge-code/Customer-Information-Management-System.git
+  
+ 
 
 ---
 
