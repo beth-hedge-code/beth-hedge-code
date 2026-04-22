@@ -53,11 +53,11 @@
 ---
 
 ## 🚀 About Me  
-- 💿 I love working with **SQL** and **databases**  
-- 📊 I enjoy organizing and analyzing data in **Excel**  
-- 🌐 Passionate about **website development**  
-- 🔧 Always improving my workflow and learning new tools  
-- 🎯 My goal: build projects that are clean, useful, and easy to maintain  
+-  I love working with **SQL** and **databases**  
+-  I enjoy organizing and analyzing data in **Excel**  
+-  Passionate about **website development**  
+-  Always improving my workflow and learning new tools  
+-  My goal: build projects that are clean, useful, and easy to maintain  
 
 ---
 ## 📂 Featured Projects  
