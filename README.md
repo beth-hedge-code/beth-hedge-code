@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Beth!</h1>
+<h1 align="center">Hi, I'm Beth!</h1>
 <h4 align="center">Aspiring Data Analyst focused on SQL, dashboards, and clean data workflows</h4>
 <h3 align="center">SQL • Data Analysis • Databases • Excel</h3>
 
